@@ -1,6 +1,6 @@
 <!-- Hero Logo -->
 <p align="center">
-  <img src="https://img.shields.io/badge/NEOTEK-LAB-00D1FF?style=for-the-badge&logo=react&logoColor=white" height="90">
+  <img src="https://img.shields.io/badge/REXIDRO-LAB-FFD300?style=for-the-badge&logo=react&logoColor=black" height="90">
 </p>
 
 <!-- Animated Header -->
