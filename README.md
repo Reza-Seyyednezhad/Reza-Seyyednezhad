@@ -40,8 +40,6 @@ I’m a **multidisciplinary engineer** who combines **nanotechnology research**,
 # 🧬 Research Interests
 - Evaporation reduction technologies  
 - Hydrophobic & nanostructured coatings  
-- Nanocatalysts, reaction engineering  
-- Polymer–nanoparticle composites  
 - Python-based scientific modeling  
 - Experimental design & sensor systems  
 
@@ -63,18 +61,18 @@ I’m a **multidisciplinary engineer** who combines **nanotechnology research**,
 <p align="center">
   <!-- Card 1 -->
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reza-seyyed&repo=nano-evaporation-system&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reza-Seyyednezhad&repo=nano-evaporation-system&theme=tokyonight" />
   </a>
   <!-- Card 2 -->
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reza-seyyed&repo=python-data-lab&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reza-Seyyednezhad&repo=python-data-lab&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
   <!-- Card 3 -->
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reza-seyyed&repo=react-dashboard-nanotech&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reza-Seyyednezhad&repo=react-dashboard-nanotech&theme=tokyonight" />
   </a>
 </p>
 
@@ -83,15 +81,15 @@ I’m a **multidisciplinary engineer** who combines **nanotechnology research**,
 # 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reza-seyyed&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reza-Seyyednezhad&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reza-seyyed&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Reza-Seyyednezhad&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reza-seyyed&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reza-Seyyednezhad&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -105,6 +103,8 @@ B[Chemical Engineering] --> D
 C[Python Development] --> D
 E[Front-End Development] --> D
 D --> F[Scientific & Software Solutions]
+```
+---
 
 # 📄 Mini-Resume
 
