@@ -32,7 +32,9 @@ I’m a **multidisciplinary engineer** who combines **nanotechnology research**,
 
 ### 🔬 Engineering & Research Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,aspenhysys" />
+  <img src="https://skillicons.dev/icons?i=matlab,arduino,raspberrypi" height="50" />
+  <!-- Aspen HYSYS custom icon -->
+  <img src="https://cdn.brandfetch.io/idHRj0Vkqz/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Aspen HYSYS" height="50" />
 </p>
 
 ---
@@ -54,28 +56,28 @@ I’m a **multidisciplinary engineer** who combines **nanotechnology research**,
   <img src="https://img.shields.io/badge/Chemical-Engineer-FF6F61?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </p>
 
----
 
+<!--
+---
 # 📁 Featured Projects (Animated Cards)
 
 <p align="center">
-  <!-- Card 1 -->
+  Card 1
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reza-Seyyednezhad&repo=nano-evaporation-system&theme=tokyonight" />
   </a>
-  <!-- Card 2 -->
+  Card 2
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reza-Seyyednezhad&repo=python-data-lab&theme=tokyonight" />
   </a>
 </p>
-
 <p align="center">
-  <!-- Card 3 -->
+  <Card 3
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Reza-Seyyednezhad&repo=react-dashboard-nanotech&theme=tokyonight" />
   </a>
 </p>
-
+-->
 ---
 
 # 📊 GitHub Activity
