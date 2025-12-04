@@ -27,12 +27,12 @@ I’m a **multidisciplinary engineer** who combines **nanotechnology research**,
 
 ### 💻 Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,react,js,html,css,tailwind,bootstrap,mui,jquery,git,github,vscode" />
 </p>
 
 ### 🔬 Engineering & Research Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=matlab,aspenhysys" />
 </p>
 
 ---
@@ -114,7 +114,6 @@ D --> F[Scientific & Software Solutions]
 ### 🧑‍🔧 Skills
 - Python, React, Tailwind, Git  
 - Scientific modeling (MATLAB, Python)  
-- Sensors & control (Arduino / Raspberry Pi)  
 - Experimental design  
 - Data analysis & visualization  
 
@@ -127,6 +126,7 @@ D --> F[Scientific & Software Solutions]
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=telegram" height="55"/></a>
 </p>
 
 <p align="center">
