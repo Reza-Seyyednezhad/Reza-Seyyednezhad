@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=1100&color=00D1FF&center=true&vCenter=true&width=900&lines=Hi+There!+I'm+Reza+👋;Nanotechnology+%26+Chemical+Engineering+MSc+Student;Python+Developer+%7C+Front-End+Developer;I+Build+%E2%9A%A1+Scientific+%2B+Software+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00D1FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Reza+👋;Nanotechnology+Researcher;Chemical+Engineering+MSc+Student;Python+Developer;Front-End+Developer" />
 </p>
 
 ---
