@@ -1,8 +1,7 @@
 <!-- Hero Logo -->
 <p align="center">
-  <img src="https://img.shields.io/badge/REXIDRO-LAB-000000?style=for-the-badge&logo=react&logoColor=yellow" height="90">
+  <img src="https://img.shields.io/badge/REXIDRO-LAB-FFD300?style=for-the-badge&logo=react&logoColor=black" height="90">
 </p>
-
 <!-- Animated Header -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Reza+%F0%9F%91%8B;Nanotechnology+%26+Chemical+Engineering+MSc+Student;Python+Developer+%7C+Front-End+Developer;I+Build+%E2%9A%A1+Scientific+%2B+Software+Projects" alt="Typing SVG" /></a>
