@@ -11,7 +11,7 @@
 
 # 🌟 About Me
 
-I’m a **multidisciplinary engineer** who combines **nanotechnology research**, **chemical engineering knowledge**, and **software development skills** to build meaningful scientific and digital solutions.
+I’m a **multidisciplinary engineer** who combines **nanotechnology research**, **chemical engineering knowledge**, and **programming skills** to build meaningful scientific and digital solutions.
 
 ### 💡 What I Do:
 - 🧪 **Nanocoatings & evaporation control research**
