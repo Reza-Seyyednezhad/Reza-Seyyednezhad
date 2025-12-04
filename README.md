@@ -113,10 +113,10 @@ D --> F[Scientific & Software Solutions]
 <p align="center">
   <!-- لینک به Organization -->
     <a aria-label="PyRezaSeyyednezhad" itemprop="follows" class="avatar-group-item" data-hovercard-type="organization" data-hovercard-url="/orgs/PyRezaSeyyednezhad/hovercard" data-octo-click="hovercard-link-click" data-octo-      dimensions="link_type:self" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:100033031,&quot;target&quot;:&quot;MEMBER_ORGANIZATION_AVATAR&quot;,&quot;user_id&quot;:100033031,&quot;originating_url&quot;:&quot;https://github.com/Reza-Seyyednezhad&quot;}}" data-hydro-click-hmac="e3b87a6784096d3545a5e3f21a8497a48a5c69524d7929596a6b9ab210b98206" href="/PyRezaSeyyednezhad" aria-keyshortcuts="Alt+ArrowUp">
-        <img src="https://avatars.githubusercontent.com/u/247774323?s=64&amp;v=4" alt="@PyRezaSeyyednezhad" size="32" height="32" width="32" data-view-component="true" class="avatar">
+        <img src="https://avatars.githubusercontent.com/u/247774323?s=64&amp;v=4" alt="@PyRezaSeyyednezhad" size="128" height="128" width="128" data-view-component="true" class="avatar">
   </a>
   <a aria-label="WebRezaSeyyednezhad" itemprop="follows" class="avatar-group-item" data-hovercard-type="organization" data-hovercard-url="/orgs/WebRezaSeyyednezhad/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:100033031,&quot;target&quot;:&quot;MEMBER_ORGANIZATION_AVATAR&quot;,&quot;user_id&quot;:100033031,&quot;originating_url&quot;:&quot;https://github.com/Reza-Seyyednezhad&quot;}}" data-hydro-click-hmac="e3b87a6784096d3545a5e3f21a8497a48a5c69524d7929596a6b9ab210b98206" href="/WebRezaSeyyednezhad" aria-keyshortcuts="Alt+ArrowUp">
-      <img src="https://avatars.githubusercontent.com/u/247774772?s=64&amp;v=4" alt="@WebRezaSeyyednezhad" size="32" height="32" width="32" data-view-component="true" class="avatar">
+      <img src="https://avatars.githubusercontent.com/u/247774772?s=64&amp;v=4" alt="@WebRezaSeyyednezhad" size="128" height="128" width="128" data-view-component="true" class="avatar">
 </a>
 </p>
 
