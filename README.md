@@ -32,7 +32,7 @@ I’m a **multidisciplinary engineer** who combines **nanotechnology research**,
 
 ### 🔬 Engineering & Research Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,arduino,raspberrypi" height="50" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="50" />
   <!-- Aspen HYSYS custom icon -->
   <img src="https://cdn.brandfetch.io/idHRj0Vkqz/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="Aspen HYSYS" height="50" />
 </p>
