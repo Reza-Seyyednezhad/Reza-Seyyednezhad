@@ -141,7 +141,7 @@ D --> F[Scientific & Software Solutions]
 <p align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=telegram" height="55"/></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="55"/></a>
 </p>
 
 <p align="center">
