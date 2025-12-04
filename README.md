@@ -5,7 +5,7 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=800&color=00D1FF&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Reza+👋;Nanotechnology+Researcher;Chemical+Engineering+MSc+Student;Python+Developer;Front-End+Developer" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Reza+%F0%9F%91%8B;Nanotechnology+%26+Chemical+Engineering+MSc+Student;Python+Developer+%7C+Front-End+Developer;I+Build+%E2%9A%A1+Scientific+%2B+Software+Projects" alt="Typing SVG" /></a>
 </p>
 
 ---
