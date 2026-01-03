@@ -106,6 +106,7 @@ C[Python Development] --> D
 E[Front-End Development] --> D
 D --> F[Scientific & Software Solutions]
 ```
+
 ---
 
 # 🏢 My Organization
