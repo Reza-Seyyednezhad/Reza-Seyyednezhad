@@ -141,9 +141,8 @@ D --> F[Scientific & Software Solutions]
 
 ### 🤝 Connect With Me
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord" height="55"/></a>
+  <a href="https://www.linkedin.com/in/reza-seyyednezhad-516745210/"><img src="https://skillicons.dev/icons?i=linkedin" height="55"/></a>
+  <a href=mailto:"reza.seyyed1379@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"/></a>
 </p>
 
 <p align="center">
